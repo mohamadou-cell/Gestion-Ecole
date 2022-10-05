@@ -69,7 +69,7 @@
          
     </div> 
         <div class="row form-inline mb-5">
-            <label for="date" class="form-label col-lg-1">DATE DE NAISSANCE:</label>
+            <label for="dateN" class="form-label col-lg-1">DATE DE NAISSANCE:</label>
             <input type="date" class="form-control col-lg-4"  placeholder="date_naissance">
             <label for="dateIns" class="form-label col-lg-1">DATE D'INSCRIPTION:</label>
             <input type="date" class="form-control col-lg-4"  placeholder="date_inscription">
